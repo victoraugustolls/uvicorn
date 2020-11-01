@@ -2,6 +2,7 @@
 
 # Explicit optionals
 wsproto==0.15.*
+git+git://github.com/victoraugustolls/httptools.git@master#egg=httptools
 
 # Packaging
 twine
